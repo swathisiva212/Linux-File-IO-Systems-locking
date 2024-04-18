@@ -40,7 +40,7 @@ exit(0);}
 
 
 ## 2.To Write a C program that illustrates files locking
-
+```
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
@@ -78,7 +78,7 @@ getchar();
 close (fd);
 return 0;
 }
-
+```
 
 ## OUTPUT
 
